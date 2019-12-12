@@ -10,6 +10,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<p> Commit </p>
+<p> Commit2 </p>
 </body>
 </html>
